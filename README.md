@@ -1,12 +1,17 @@
  # Proyecto-SSRUAL
 
 ## Integrantes: 
-  • SAMUEL SOLANO RAMIREZ
-  • DAVID ALEJANDRO RODRIGUEZ PINILLA
-  • BRIAN SNEYDER BETANCOURT PINILLA
-  • SAMUEL ESTEBAN ROMERO PINILLA
-  • NICOLAS MONTANA RUIZ
-  • JUAN JOSE MONTENEGRO CUBILLOS
+  • Samuel Solano Ramírez
+  
+  • David Alejandro Rodriguez Pinilla
+  
+  • Braian Sneyder Betancourt Cadena
+  
+  • Samuel Esteban Romero Rodriguez
+  
+  • Nicolas Montaña Ruiz
+  
+  • Juan Jose Montenegro Cubillos
 
 ## Descripción y/o Introducción:
 
