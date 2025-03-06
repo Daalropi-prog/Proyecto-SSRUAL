@@ -1,4 +1,4 @@
- # Proyecto-SSRUAL
+ # SSRUAL
  
 ## Integrantes: 
 
